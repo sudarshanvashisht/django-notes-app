@@ -62,4 +62,3 @@ Sudarshan Vashisht
 
 B.Tech Computer Science and Engineering student focused on software infrastructure, deployment architecture, and full-stack development.
 
-GitHub Profile
